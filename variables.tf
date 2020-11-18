@@ -1,7 +1,10 @@
 variable "organization_id" {
   type = string
+  default = "17d37ef2-56fb-40d4-8cfe-16d2e30cd098"
 }
 
 variable "public_key" {
   type = string
+  default = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC2BGR6uWmgpJyzhW1rXo8yCrJvDCQDZN19xe9V+KWe4sBIty7Xs2+OfiOufI8JZQxXdNkXAvFbXUgxzKu2CpfOcRkhoXWH8cf5H7Gvjcha04P5W82h16JU7FTxWS1mdNReHFkAMHA0VE9Rt6D+xGCz+ckJz462rTPgWkIGyoXan3hpAwSvu3TTNziaW4BoRz0pLlPcD5eMtkSxbQjbedsPfaYuBebRiqa9+2k1mR5cGZvmWudf989evjYksUHyrIlsG3QLDGcDJm4eUkRfaObO9qya2gSpFQPGSSxpuWGGijHVjkCWtDZ6rHXeVCSyBc3ZXBtuNCtXLKJ1yxhG8NxVTc/0Y1oVYIp4RmGzhOWNKvqSs4buOoln1INLazmfO80CmxhXPGk5PP1slpMeoaxAzZ0UEubaM/F1eAgp9OfTNbj/MDcsYC7Uu7/H36ya1FolgXqo8go1rQaXTEZucMduZWsFKJXrt0jZnDG5fsZNSha+ED08bjwBdbblTe369pmcIaLiLJLf9tOynhq2vCYjKNTuEAnrDOiccdEd0OrHHve+KZsM4btM5xzru6SbHkysgXP+yCTfvST1WR9/3prfBmm0A6EKNpRWJn1KUleqIqqMBJpzypj2gbvfh5kKf6cQyEtjPW2PAtqKZyfEYK3+PptZUu64rlpFor8JO3ddsQ== net@net-HP-EliteBook-840-G2
+"
 }
